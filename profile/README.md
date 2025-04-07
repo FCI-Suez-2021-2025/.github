@@ -5,9 +5,9 @@ Welcome to the **Organization** for the Faculty of Computer and Information at *
 
 ---
 
-## 📂 Repository Overview
+## 📂 Organization Overview
 
-This repository is dedicated to showcasing projects, assignments, and collaborative efforts completed by our class. Here, you'll find a variety of materials that reflect the diverse talents and contributions of our peers. Our main goals are to:
+This Organization is dedicated to showcasing projects, assignments, and collaborative efforts completed by our class. Here, you'll find a variety of materials that reflect the diverse talents and contributions of our peers. Our main goals are to:
 
 - **Facilitate collaboration** on projects and academic work.
 - **Share knowledge and resources** to support each other's learning.
